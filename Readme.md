@@ -1,4 +1,4 @@
-Defining a Function
+## Defining a Function
 
 This project demonstrates a simple Python program that calculates the final price of an item after applying a discount.
 
